@@ -116,4 +116,6 @@ function merge(izq, der) {
 }
 
 let arreglo = [10, 5, 8, 1];
-console.log(mergeSort(arreglo));
+//console.log(mergeSort(arreglo));
+
+module.exports = mergeSort;
